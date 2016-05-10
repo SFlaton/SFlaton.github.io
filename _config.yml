@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "My Blog"
 title_separator          : "-"
 name                     : "Suzanne Flaton"
-description              : "An amazing website."
+description              : "Read all about my adventures as a trainee web developer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -62,9 +62,9 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "Suzanne"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  avatar           : "bio-suzanne.jpg"
+  bio              : "Just started as an trainee web developer!"
+  location         : "Amsterdam, the Netherlands"
   email            :
   uri              :
   bitbucket        :
